@@ -1,6 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-
-
+## NAME: HARIHARAN S
+## REGNO: 2305001009
 ## AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
@@ -36,6 +36,7 @@ return 0;
 }
 ```
 ## OUTPUT:
+<img width="682" height="175" alt="image" src="https://github.com/user-attachments/assets/68ab1fe7-d583-4283-83fe-6042bb65ab84" />
 
 
 ## RESULT:
